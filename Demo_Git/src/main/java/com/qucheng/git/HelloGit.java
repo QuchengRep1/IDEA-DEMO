@@ -13,6 +13,7 @@ public class HelloGit {
 
         System.out.println("Dev2 分支更新 1...");
         System.out.println("Dev2 分支更新 2...");
+        System.out.println("Dev2 分支更新 3...");
 
     }
 }
